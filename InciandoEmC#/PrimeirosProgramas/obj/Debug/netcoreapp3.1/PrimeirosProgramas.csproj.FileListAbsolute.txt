@@ -1,0 +1,12 @@
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\bin\Debug\netcoreapp3.1\PrimeirosProgramas.exe
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\bin\Debug\netcoreapp3.1\PrimeirosProgramas.deps.json
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\bin\Debug\netcoreapp3.1\PrimeirosProgramas.runtimeconfig.json
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\bin\Debug\netcoreapp3.1\PrimeirosProgramas.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\bin\Debug\netcoreapp3.1\PrimeirosProgramas.dll
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\bin\Debug\netcoreapp3.1\PrimeirosProgramas.pdb
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\obj\Debug\netcoreapp3.1\PrimeirosProgramas.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\obj\Debug\netcoreapp3.1\PrimeirosProgramas.AssemblyInfo.cs
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\obj\Debug\netcoreapp3.1\PrimeirosProgramas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\obj\Debug\netcoreapp3.1\PrimeirosProgramas.dll
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\obj\Debug\netcoreapp3.1\PrimeirosProgramas.pdb
+C:\Users\Arthur\Documents\MeusProjetosGit\C-Sharp\InciandoEmC#\PrimeirosProgramas\obj\Debug\netcoreapp3.1\PrimeirosProgramas.genruntimeconfig.cache
